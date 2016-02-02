@@ -9,9 +9,12 @@
     <sprite>sprites\sprite0_Boney1</sprite>
     <sprite>sprites\sSkeletonWalking</sprite>
     <sprite>sprites\sSkeletonFalling</sprite>
+    <sprite>sprites\sGun</sprite>
     <sprite>sprites\sprite3</sprite>
     <sprite>sprites\sPlayer</sprite>
+    <sprite>sprites\sPlayerArmed</sprite>
     <sprite>sprites\sPlayerKick</sprite>
+    <sprite>sprites\sPlayerKickArmed</sprite>
     <sprite>sprites\sprite5_MetalTile</sprite>
     <sprite>sprites\sprite7_sGrate</sprite>
     <sprite>sprites\sGrateDented</sprite>
@@ -39,6 +42,8 @@
     <object>objects\oSolid</object>
     <object>objects\oDj</object>
     <object>objects\object7</object>
+    <object>objects\oLightingController</object>
+    <object>objects\oGun</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rInit</room>

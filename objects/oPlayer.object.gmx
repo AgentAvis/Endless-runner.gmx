@@ -37,6 +37,40 @@ key_down = 0;
 kick = false
 Timerr = 0
 bhsp = 1
+armed = false
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="3" enumb="2">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if instance_exists(oLightingController) {
+    
+    size = 700
+    Size = size
+    draw_set_blend_mode(bm_subtract)
+    surface_set_target(global.light)
+    draw_ellipse_color(x-Size/2-view_xview,y-Size/2-view_yview,x+Size/2-view_xview,y+Size/2-view_yview,c_white,c_black,false)
+    
+    surface_reset_target()
+    draw_set_blend_mode(bm_normal)
+}
 </string>
           </argument>
         </arguments>
@@ -62,7 +96,9 @@ bhsp = 1
             <string>walking = keyboard_check(ord('D')) || keyboard_check(ord('A'));
 airborne = !(vsp == 0); 
 
-sprite_index = sPlayer
+if (armed) {
+    sprite_index = sPlayerArmed
+} else { sprite_index = sPlayer } 
 
 if hsp != 0 { image_xscale = -sign(hsp) image_speed = .25 } else { image_index = 0 image_speed = 0 }    
 
@@ -90,13 +126,17 @@ if kick = true {
     if hsp != 0 { bhsp = sign(hsp) }     
     
     grate = collision_line(x,y-25,x+(bhsp*30),y-25,oGrate,true,true)
+    Box = collision_line(x,y-25,x+(bhsp*30),y-25,oBox,true,true)
     
     if instance_exists(grate) { with (grate) { instance_change(oGrateDented,true) physics_apply_impulse(x,y,oPlayer.bhsp * 300,0) } }
-    sprite_index = sPlayerKick
+    if instance_exists(Box) { with (Box) { instance_destroy() } }
+    if (armed) {
+    sprite_index = sPlayerKickArmed
+} else { sprite_index = sPlayerKick } 
     //hsp = 0
     //vsp = 0 
     Timerr += 1
-    if Timerr &gt; room_speed * .25 {
+    if Timerr &gt; room_speed * .1 {
         Timerr = 0
         kick = false
         }
