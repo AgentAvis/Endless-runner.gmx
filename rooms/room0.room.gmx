@@ -16,7 +16,7 @@
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>-1</isSet>
-    <w>920</w>
+    <w>888</w>
     <h>600</h>
     <showGrid>0</showGrid>
     <showObjects>-1</showObjects>
@@ -26,9 +26,9 @@
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
-    <page>5</page>
-    <xoffset>181</xoffset>
-    <yoffset>457</yoffset>
+    <page>2</page>
+    <xoffset>-91</xoffset>
+    <yoffset>-169</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -78,7 +78,6 @@
     <instance objName="oMetal" x="576" y="832" name="inst_D695AB75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="640" y="832" name="inst_7BBE5261" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="704" y="832" name="inst_C7A2A06D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="768" y="832" name="inst_91E5AF09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="832" y="832" name="inst_714ABB2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="896" y="832" name="inst_003FC748" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="960" y="832" name="inst_599A637D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -129,8 +128,6 @@
     <instance objName="oMetal" x="1792" y="896" name="inst_42A97297" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1792" y="960" name="inst_A9E184BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1600" y="1024" name="inst_B054A38C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1600" y="1088" name="inst_A23F74F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1600" y="1152" name="inst_8040D108" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1600" y="1216" name="inst_B4D577DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1792" y="1024" name="inst_EB22F6CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1792" y="1088" name="inst_45AFE0F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -143,20 +140,6 @@
     <instance objName="oMetal" x="2112" y="1216" name="inst_3992340B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="2176" y="1216" name="inst_85D192CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="2240" y="1216" name="inst_864E0394" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1536" y="1216" name="inst_72F98DCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1472" y="1216" name="inst_768CB0EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1408" y="1216" name="inst_49482A56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1344" y="1216" name="inst_F0D2151E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1280" y="1216" name="inst_D27F5319" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1216" y="1216" name="inst_C276CA5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1216" name="inst_F44B623F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1408" name="inst_888C1D31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1216" y="1408" name="inst_CAAA0D43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1280" y="1408" name="inst_ED821765" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1344" y="1408" name="inst_62AF3186" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1408" y="1408" name="inst_C84D6D47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1472" y="1408" name="inst_103529AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1536" y="1408" name="inst_B9BE106F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1600" y="1408" name="inst_95981E29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1664" y="1408" name="inst_1D0B0418" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="1728" y="1408" name="inst_CCD862E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -233,33 +216,9 @@
     <instance objName="oMetal" x="3008" y="1984" name="inst_2AFCAA1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="3072" y="1984" name="inst_B5A29352" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="3136" y="1984" name="inst_CB22D8E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1536" name="inst_9413B87C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1600" name="inst_53A2B7A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1664" name="inst_A696014D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1472" name="inst_30BE1B19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="896" name="inst_B95FA422" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="960" name="inst_DA47B0FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1024" name="inst_D1B831F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1088" name="inst_349C0406" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1152" name="inst_B840110A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1280" name="inst_8DB9D754" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1216" name="inst_1F8B9698" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1152" name="inst_7B6878EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1088" name="inst_F8EA2385" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1024" name="inst_D0B0E283" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="960" name="inst_2B4D0DDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="896" name="inst_90F6A19A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1344" name="inst_818C27A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1408" name="inst_C0CCBE54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1472" name="inst_FD0627E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1536" name="inst_B84EF8D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1600" name="inst_C2920D94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1664" name="inst_3BC4B6F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="960" y="1728" name="inst_35E744C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="960" y="1792" name="inst_FFD14E56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="960" y="1856" name="inst_30A5B02B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="960" y="1920" name="inst_D7B7C5F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oMetal" x="1152" y="1728" name="inst_C8A7B3EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="960" y="1984" name="inst_CB72E495" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="960" y="2048" name="inst_E3876078" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oMetal" x="960" y="2112" name="inst_53AFB2C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -573,8 +532,6 @@
     <instance objName="oMetal" x="4224" y="3584" name="inst_584FE0F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oGrate" x="512" y="640" name="inst_178D7CAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
     <instance objName="oGrate" x="512" y="576" name="inst_06FCC36E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
-    <instance objName="oGrate" x="1088" y="832" name="inst_5C93F8B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oGrate" x="1024" y="832" name="inst_81B50D43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oGrate" x="1408" y="704" name="inst_F2F22065" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
     <instance objName="oGrate" x="1408" y="768" name="inst_E163EB64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
     <instance objName="oGrate" x="2624" y="576" name="inst_1BD51D40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -585,12 +542,8 @@
     <instance objName="oGrate" x="1088" y="2368" name="inst_5A57A888" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
     <instance objName="oGrate" x="1088" y="2624" name="inst_47704CA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oGrate" x="1024" y="2624" name="inst_9FC14B3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oGrate" x="1088" y="1408" name="inst_AA3F70EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oGrate" x="1024" y="1408" name="inst_0A66FD7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oGrate" x="1088" y="1984" name="inst_129FDDB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oGrate" x="1024" y="1984" name="inst_CC1D540F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oGrate" x="1088" y="1856" name="inst_8F12C303" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
-    <instance objName="oGrate" x="1152" y="1856" name="inst_84F6749F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
     <instance objName="oGrate" x="2624" y="1856" name="inst_E1C28DEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
     <instance objName="oGrate" x="2688" y="1856" name="inst_041FB843" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
     <instance objName="oGrate" x="2560" y="1408" name="inst_51947BCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -599,8 +552,128 @@
     <instance objName="oGrate" x="2624" y="1280" name="inst_3AA08472" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
     <instance objName="oGrate" x="1792" y="1280" name="inst_BF8705E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
     <instance objName="oGrate" x="1728" y="1280" name="inst_02E6FCE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
-    <instance objName="oGrate" x="1088" y="1280" name="inst_A8EC5DAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
-    <instance objName="oGrate" x="1152" y="1280" name="inst_FA7A1829" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
+    <instance objName="oMetal" x="1024" y="832" name="inst_36F143D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1088" y="832" name="inst_712E415B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1536" y="1216" name="inst_ABB079F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1472" y="1216" name="inst_A8AAEDB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1408" y="1216" name="inst_D8805579" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1536" y="1408" name="inst_349D1446" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1472" y="1408" name="inst_8C37DCAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1408" y="1408" name="inst_EC030E71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1600" y="1088" name="inst_044EF0A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1600" y="1152" name="inst_4D036DA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1408" y="1472" name="inst_CA389419" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1408" y="1536" name="inst_290295CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1408" y="1600" name="inst_9CB8D793" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="832" y="1792" name="inst_4B163C12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="896" y="1792" name="inst_AB453B3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="832" y="1792" name="inst_354D3524" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="768" y="1792" name="inst_099C8A65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="704" y="1792" name="inst_665E2CF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="704" y="1216" name="inst_4E63305A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="768" y="1216" name="inst_6414F862" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="832" y="1216" name="inst_CE5D4001" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="896" y="1216" name="inst_2E841864" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="960" y="1216" name="inst_44AE4A6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1024" y="1216" name="inst_4DCBA14E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1088" y="1216" name="inst_5A54B825" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1152" y="1216" name="inst_D33D2404" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1216" y="1216" name="inst_71FF12A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1280" y="1216" name="inst_855739A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1344" y="1216" name="inst_E73379EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="640" y="1216" name="inst_B2B0DF88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="576" y="1216" name="inst_10C65958" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="512" y="1216" name="inst_C8598A81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="448" y="1216" name="inst_057BB8D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1216" name="inst_98E3ACE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1280" name="inst_8E7D8FF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1344" name="inst_D450AEA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1408" name="inst_30492A33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1472" name="inst_2A630287" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1536" name="inst_070F0D12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1600" name="inst_A9AE9041" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1664" name="inst_2E4570F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1728" name="inst_BA744D3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="384" y="1792" name="inst_D3494B02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="448" y="1792" name="inst_68C99A7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="512" y="1792" name="inst_F4B237D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="576" y="1792" name="inst_701642DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="640" y="1792" name="inst_8719AD8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oGrate" x="1408" y="1344" name="inst_6105C30F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="oGrate" x="1408" y="1408" name="inst_9F51EB4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="oMetal" x="1088" y="1792" name="inst_F1557F87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="1024" y="1792" name="inst_58BBA24D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1216" y="1728" name="inst_B03F4AA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1280" y="1728" name="inst_EC05891D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1344" y="1728" name="inst_BEEBDFB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1344" y="1664" name="inst_8DF8B95C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1344" y="1600" name="inst_E3F8C802" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1344" y="1472" name="inst_C1B83102" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1344" y="1536" name="inst_52C8ECA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1280" y="1536" name="inst_511B0EB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1280" y="1600" name="inst_6B83D3E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1216" y="1600" name="inst_15B068EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1152" y="1728" name="inst_61966D8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1088" y="1728" name="inst_F3729491" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1216" y="1664" name="inst_E8A83317" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1280" y="1664" name="inst_49DF984E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="704" y="1728" name="inst_AE325B07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="640" y="1728" name="inst_F02062F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="576" y="1728" name="inst_8E7DF19B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="512" y="1728" name="inst_170CD91F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="576" y="1664" name="inst_0206CB89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="640" y="1664" name="inst_741CA5C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="640" y="1600" name="inst_14B08FA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="768" y="1600" name="inst_F1F95B73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="704" y="1536" name="inst_ABFAF00D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="704" y="1600" name="inst_A079AB53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="704" y="1664" name="inst_C1BF1828" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="768" y="1664" name="inst_F4389C15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="768" y="1728" name="inst_08AC8E93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="832" y="1728" name="inst_AF3274A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="896" y="1728" name="inst_7FE118E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="832" y="1664" name="inst_1F3B89E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="448" y="1728" name="inst_AFDDBF50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="448" y="1664" name="inst_B9B691AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="512" y="1664" name="inst_64C7EC2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="512" y="1600" name="inst_5E8C590D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="448" y="1600" name="inst_1551FA35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="448" y="1536" name="inst_475C0139" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="448" y="1472" name="inst_9041DD73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1408" y="1664" name="inst_920687BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1408" y="1728" name="inst_AB5BE561" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1536" y="1728" name="inst_E6BC1537" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1472" y="1728" name="inst_F2E6F15C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1472" y="1664" name="inst_382CC52D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1472" y="1536" name="inst_126DA30A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1472" y="1600" name="inst_4AFAE951" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1536" y="1600" name="inst_60BEE5AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1536" y="1664" name="inst_7364E6F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1600" y="1664" name="inst_45FB20AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1600" y="1728" name="inst_59F01E7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1664" y="1728" name="inst_59604AB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1728" y="1728" name="inst_E615EA4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="1792" y="1728" name="inst_FEA7C71F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2048" y="1728" name="inst_A706539F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2112" y="1728" name="inst_52269E02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2176" y="1728" name="inst_E2F566A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2432" y="1728" name="inst_28C7D21B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2432" y="1600" name="inst_CFC421AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2432" y="1664" name="inst_4382E68B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2368" y="1728" name="inst_4CB640FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2304" y="1728" name="inst_7D57AF9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2240" y="1728" name="inst_74E5FC9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2304" y="1664" name="inst_22ED1A70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBox" x="2368" y="1664" name="inst_66FA99E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="1216" y="832" name="inst_191C45BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oMetal" x="768" y="832" name="inst_89E12E67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="704" y="832" name="inst_1A36365D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="960" y="832" name="inst_C19588F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="1920" y="1792" name="inst_164C53B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="3712" y="2240" name="inst_282DFAF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="832" y="2624" name="inst_C93A1176" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="1280" y="2624" name="inst_E2219707" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor" x="3456" y="2240" name="inst_89A98B0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background0" x="128" y="384" w="128" h="128" xo="0" yo="0" id="10000099" name="inst_871179F6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -615,10 +688,6 @@
     <tile bgName="background0" x="1664" y="896" w="128" h="128" xo="0" yo="0" id="10000114" name="inst_61046677" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1664" y="1024" w="128" h="128" xo="0" yo="0" id="10000115" name="inst_71E0EBF8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1664" y="1152" w="128" h="128" xo="0" yo="0" id="10000116" name="inst_5A39B883" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1152" y="1280" w="128" h="128" xo="0" yo="0" id="10000117" name="inst_630B7BDE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1280" y="1280" w="128" h="128" xo="0" yo="0" id="10000118" name="inst_5B7CA0EA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1408" y="1280" w="128" h="128" xo="0" yo="0" id="10000119" name="inst_6456BC5A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1536" y="1280" w="128" h="128" xo="0" yo="0" id="10000120" name="inst_2CD8C09A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1664" y="1280" w="128" h="128" xo="0" yo="0" id="10000121" name="inst_CBBB2E1B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1792" y="1280" w="128" h="128" xo="0" yo="0" id="10000122" name="inst_EFE8C08B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1920" y="1280" w="128" h="128" xo="0" yo="0" id="10000123" name="inst_071E6F42" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -666,14 +735,6 @@
     <tile bgName="background0" x="1152" y="1792" w="128" h="128" xo="0" yo="0" id="10000190" name="inst_C185A2D9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1024" y="2048" w="128" h="128" xo="0" yo="0" id="10000193" name="inst_751A9B76" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1024" y="1920" w="128" h="128" xo="0" yo="0" id="10000194" name="inst_2FCADD04" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="1792" w="128" h="128" xo="0" yo="0" id="10000195" name="inst_9447E6DD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="1664" w="128" h="128" xo="0" yo="0" id="10000196" name="inst_93DF34F0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="1536" w="128" h="128" xo="0" yo="0" id="10000197" name="inst_DED65E99" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="1152" w="128" h="128" xo="0" yo="0" id="10000198" name="inst_CC082656" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="1280" w="128" h="128" xo="0" yo="0" id="10000199" name="inst_6FF0BD58" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="1408" w="128" h="128" xo="0" yo="0" id="10000200" name="inst_CFACF710" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="1024" w="128" h="128" xo="0" yo="0" id="10000202" name="inst_1ED225D2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background0" x="1024" y="896" w="128" h="128" xo="0" yo="0" id="10000203" name="inst_058E155A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1024" y="2176" w="128" h="128" xo="0" yo="0" id="10000205" name="inst_4B99B38C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1024" y="2688" w="128" h="128" xo="0" yo="0" id="10000206" name="inst_AE1ED7EE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1024" y="2816" w="128" h="128" xo="0" yo="0" id="10000207" name="inst_80564DE4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
@@ -887,6 +948,69 @@
     <tile bgName="background1" x="2304" y="384" w="128" h="128" xo="0" yo="0" id="10000481" name="inst_0CA7A68C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background1" x="2304" y="512" w="128" h="128" xo="0" yo="0" id="10000482" name="inst_F94A4867" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="background0" x="1408" y="640" w="128" h="128" xo="0" yo="0" id="10000483" name="inst_B38B3D4F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="" x="2688" y="1344" w="16" h="16" xo="0" yo="0" id="10000484" name="inst_04E5A22C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background0" x="1536" y="1280" w="128" h="128" xo="0" yo="0" id="10000485" name="inst_A0D13A26" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background0" x="1408" y="1280" w="128" h="128" xo="0" yo="0" id="10000486" name="inst_37C97435" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="384" y="1280" w="128" h="128" xo="0" yo="0" id="10000487" name="inst_70C98EFF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="384" y="1408" w="128" h="128" xo="0" yo="0" id="10000488" name="inst_2631A375" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="384" y="1664" w="128" h="128" xo="0" yo="0" id="10000489" name="inst_D622AA96" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="384" y="1536" w="128" h="128" xo="0" yo="0" id="10000490" name="inst_9891EFFD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="512" y="1536" w="128" h="128" xo="0" yo="0" id="10000491" name="inst_2239DC72" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="512" y="1408" w="128" h="128" xo="0" yo="0" id="10000492" name="inst_B8D1E1AA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="512" y="1280" w="128" h="128" xo="0" yo="0" id="10000493" name="inst_9F08E14D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="512" y="1664" w="128" h="128" xo="0" yo="0" id="10000494" name="inst_B8431104" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="640" y="1664" w="128" h="128" xo="0" yo="0" id="10000495" name="inst_20A3E4AE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="768" y="1664" w="128" h="128" xo="0" yo="0" id="10000496" name="inst_229F25D9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1024" y="1664" w="128" h="128" xo="0" yo="0" id="10000498" name="inst_1B427E90" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1152" y="1664" w="128" h="128" xo="0" yo="0" id="10000499" name="inst_46E080E4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1280" y="1664" w="128" h="128" xo="0" yo="0" id="10000500" name="inst_6D629CC4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1280" y="1280" w="128" h="128" xo="0" yo="0" id="10000503" name="inst_056FEA39" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1152" y="1280" w="128" h="128" xo="0" yo="0" id="10000504" name="inst_41B16067" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1024" y="1280" w="128" h="128" xo="0" yo="0" id="10000505" name="inst_5974A946" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="896" y="1280" w="128" h="128" xo="0" yo="0" id="10000506" name="inst_CCE8DC4A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="768" y="1280" w="128" h="128" xo="0" yo="0" id="10000507" name="inst_B817686F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="640" y="1280" w="128" h="128" xo="0" yo="0" id="10000508" name="inst_6F88D8E0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="640" y="1408" w="128" h="128" xo="0" yo="0" id="10000509" name="inst_0B860DFA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="640" y="1536" w="128" h="128" xo="0" yo="0" id="10000510" name="inst_2FC5DCDA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="768" y="1536" w="128" h="128" xo="0" yo="0" id="10000511" name="inst_FD4199B4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1024" y="1408" w="128" h="128" xo="0" yo="0" id="10000514" name="inst_E93854DC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1152" y="1408" w="128" h="128" xo="0" yo="0" id="10000515" name="inst_84B1DACD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1280" y="1408" w="128" h="128" xo="0" yo="0" id="10000516" name="inst_A1BDB9E0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1280" y="1536" w="128" h="128" xo="0" yo="0" id="10000517" name="inst_69C8426F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1152" y="1536" w="128" h="128" xo="0" yo="0" id="10000518" name="inst_0D01D24F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1024" y="1536" w="128" h="128" xo="0" yo="0" id="10000519" name="inst_91F7929D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="896" y="1536" w="128" h="128" xo="0" yo="0" id="10000520" name="inst_CDE87DE2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="896" y="1408" w="128" h="128" xo="0" yo="0" id="10000521" name="inst_C287E6E2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="768" y="1408" w="128" h="128" xo="0" yo="0" id="10000522" name="inst_97334A6B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background0" x="1024" y="1792" w="128" h="128" xo="0" yo="0" id="10000524" name="inst_C60EDC64" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1408" y="1664" w="128" h="128" xo="0" yo="0" id="10000525" name="inst_F113A809" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1536" y="1664" w="128" h="128" xo="0" yo="0" id="10000526" name="inst_A1552BA2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1408" y="1536" w="128" h="128" xo="0" yo="0" id="10000527" name="inst_5EBE27E8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1408" y="1408" w="128" h="128" xo="0" yo="0" id="10000528" name="inst_C8A7AB61" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1536" y="1536" w="128" h="128" xo="0" yo="0" id="10000529" name="inst_2771EF32" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1536" y="1408" w="128" h="128" xo="0" yo="0" id="10000530" name="inst_89E5C763" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1664" y="1408" w="128" h="128" xo="0" yo="0" id="10000531" name="inst_89E3FB93" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1792" y="1408" w="128" h="128" xo="0" yo="0" id="10000532" name="inst_61A3572F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1792" y="1536" w="128" h="128" xo="0" yo="0" id="10000535" name="inst_17F24E5F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1664" y="1536" w="128" h="128" xo="0" yo="0" id="10000536" name="inst_034F98C2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1664" y="1664" w="128" h="128" xo="0" yo="0" id="10000537" name="inst_B9FAFDF7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1792" y="1664" w="128" h="128" xo="0" yo="0" id="10000538" name="inst_BCD971C9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1920" y="1664" w="128" h="128" xo="0" yo="0" id="10000539" name="inst_BA7BEFE7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2048" y="1664" w="128" h="128" xo="0" yo="0" id="10000540" name="inst_3C1BDD68" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2176" y="1664" w="128" h="128" xo="0" yo="0" id="10000543" name="inst_831AB000" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2176" y="1536" w="128" h="128" xo="0" yo="0" id="10000544" name="inst_1C20A9C4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2048" y="1536" w="128" h="128" xo="0" yo="0" id="10000545" name="inst_5123B5EE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1920" y="1536" w="128" h="128" xo="0" yo="0" id="10000546" name="inst_344F3002" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="1920" y="1408" w="128" h="128" xo="0" yo="0" id="10000547" name="inst_3B17B04D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2048" y="1408" w="128" h="128" xo="0" yo="0" id="10000548" name="inst_2DE286EB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2176" y="1408" w="128" h="128" xo="0" yo="0" id="10000549" name="inst_FD73DEF8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2304" y="1408" w="128" h="128" xo="0" yo="0" id="10000550" name="inst_E769281A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2304" y="1536" w="128" h="128" xo="0" yo="0" id="10000551" name="inst_A0AB56C2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2304" y="1664" w="128" h="128" xo="0" yo="0" id="10000552" name="inst_B43850BB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2432" y="1664" w="128" h="128" xo="0" yo="0" id="10000553" name="inst_142CD9B9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2432" y="1536" w="128" h="128" xo="0" yo="0" id="10000554" name="inst_042872C3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="2432" y="1408" w="128" h="128" xo="0" yo="0" id="10000555" name="inst_1FD34302" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="background1" x="896" y="1664" w="128" h="128" xo="0" yo="0" id="10000556" name="inst_26871F36" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>-1</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

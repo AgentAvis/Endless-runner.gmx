@@ -15,6 +15,9 @@
     <sprite>sprites\sprite5_MetalTile</sprite>
     <sprite>sprites\sprite7_sGrate</sprite>
     <sprite>sprites\sGrateDented</sprite>
+    <sprite>sprites\sDoor</sprite>
+    <sprite>sprites\sprite9_sBox</sprite>
+    <sprite>sprites\sprite10</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -28,8 +31,10 @@
     <object>objects\oPlayer</object>
     <object>objects\oSkeleton</object>
     <object>objects\oGrate</object>
+    <object>objects\oDoor</object>
     <object>objects\oGrateDented</object>
     <object>objects\oMetal</object>
+    <object>objects\oBox</object>
     <object>objects\oStone</object>
     <object>objects\oSolid</object>
     <object>objects\oDj</object>
