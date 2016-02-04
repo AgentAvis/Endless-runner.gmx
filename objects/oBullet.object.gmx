@@ -66,6 +66,8 @@ if place_meeting(x+hspeed,y+vspeed,oMetal) { instance_destroy()}
 if place_meeting(x,y,oPlayer) { with (oPlayer) Health -= 1 }
 
 if Die = true { instance_destroy() }
+
+image_angle = Direction
 </string>
           </argument>
         </arguments>

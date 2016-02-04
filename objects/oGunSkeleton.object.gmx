@@ -72,8 +72,8 @@ ID = oMetal
         image_angle = point_direction(oPlayer.x,oPlayer.y,x,y)
         
         //figure out where to make the bullet
-        Bulx = x + lengthdir_x(-25,image_angle)
-        Buly = y + lengthdir_y(-25,image_angle)
+        Bulx = x + lengthdir_x(-35,image_angle)
+        Buly = y + lengthdir_y(-35,image_angle)
         
         //muzzle flash
         
@@ -90,7 +90,7 @@ ID = oMetal
             Bullet.image_angle = image_angle
             
         }  
-    }
+    } else { image_angle = 270 }
 } else { instance_create(x,y,oSGib6) instance_destroy() } 
 </string>
           </argument>

@@ -6,7 +6,7 @@
 var Target
 Target = argument0 
 
-if collision_line(x,y,Target.x,Target.y,oSolid,false,true){
+if collision_line(x,y,Target.x,Target.y - 20,oSolid,false,true){
 return false;
 } else {
 return true;
