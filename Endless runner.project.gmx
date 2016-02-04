@@ -4,12 +4,22 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\aGunShoot</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite0_Boney1</sprite>
     <sprite>sprites\sSkeletonWalking</sprite>
+    <sprite>sprites\sSkeletonGib1</sprite>
+    <sprite>sprites\sSkeletonGib2</sprite>
+    <sprite>sprites\sSkeletonGib4</sprite>
+    <sprite>sprites\sSkeletonGib3</sprite>
+    <sprite>sprites\sprite20</sprite>
     <sprite>sprites\sSkeletonFalling</sprite>
+    <sprite>sprites\sTable</sprite>
+    <sprite>sprites\sChair</sprite>
     <sprite>sprites\sGun</sprite>
+    <sprite>sprites\sprite17</sprite>
     <sprite>sprites\sprite3</sprite>
     <sprite>sprites\sPlayer</sprite>
     <sprite>sprites\sPlayerArmed</sprite>
@@ -20,7 +30,10 @@
     <sprite>sprites\sGrateDented</sprite>
     <sprite>sprites\sDoor</sprite>
     <sprite>sprites\sprite9_sBox</sprite>
+    <sprite>sprites\sprite22</sprite>
+    <sprite>sprites\sprite23</sprite>
     <sprite>sprites\sprite10</sprite>
+    <sprite>sprites\sprite16</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -29,21 +42,43 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\ScGravityAndCollision.gml</script>
+    <script>scripts\ScCanSee.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\oPlayer</object>
     <object>objects\oSkeleton</object>
+    <objects name="Gibs">
+      <objects name="SkeletonGibs">
+        <object>objects\oSGib1</object>
+        <object>objects\oSGib2</object>
+        <object>objects\oSGib3</object>
+        <object>objects\oSGib4</object>
+        <object>objects\oSGib5</object>
+        <object>objects\oSGib6</object>
+      </objects>
+      <objects name="Boxes">
+        <object>objects\oBGib2</object>
+        <object>objects\oBGib1</object>
+      </objects>
+      <object>objects\oGrateDented</object>
+    </objects>
+    <objects name="Funature &amp; decor">
+      <object>objects\oDoor</object>
+      <object>objects\oTable</object>
+      <object>objects\oChair</object>
+    </objects>
+    <objects name="Blocks">
+      <object>objects\oSolid</object>
+      <object>objects\oStone</object>
+      <object>objects\oMetal</object>
+      <object>objects\oBox</object>
+    </objects>
     <object>objects\oGrate</object>
-    <object>objects\oDoor</object>
-    <object>objects\oGrateDented</object>
-    <object>objects\oMetal</object>
-    <object>objects\oBox</object>
-    <object>objects\oStone</object>
-    <object>objects\oSolid</object>
-    <object>objects\oDj</object>
-    <object>objects\object7</object>
-    <object>objects\oLightingController</object>
     <object>objects\oGun</object>
+    <object>objects\oGunSkeleton</object>
+    <object>objects\oLightingController</object>
+    <object>objects\oDj</object>
+    <object>objects\oBullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rInit</room>

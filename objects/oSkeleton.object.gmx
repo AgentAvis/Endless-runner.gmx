@@ -27,6 +27,14 @@
             <kind>1</kind>
             <string>image_speed = .25
 hsp = 1.5
+h = 1.5
+v = 0
+ID = id
+
+Baby = instance_create(x,y,oGunSkeleton)
+Baby.ID = ID
+
+Health = 25
 </string>
           </argument>
         </arguments>
@@ -49,29 +57,47 @@ hsp = 1.5
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>image_xscale = -sign(hsp)
+            <string>
+    x += h
+    y += v
+    
+    image_xscale = -sign(h)
+    
+    if place_meeting(x,y+vspeed,oSolid) {
+    
+    v = 0
+    
+    //throwing code
+    
+    //walking code
+    
+    sprite_index = sSkeletonWalking
+    
+    if collision_line(x,y-20,x+(sign(h)*30),y-20,oSolid,false,true) { h = -h }
+    
+    
+    } else {
+    
+    v += .1
+    
+    sprite_index = sSkeletonFalling
+    
+    }
+    
+    if place_meeting(x,y,oBullet) { Health -= 1 }
+    
+    if Health &lt; 1 {
+    
+    instance_create(x,y,oSGib1)
+    instance_create(x,y,oSGib2)
+    instance_create(x,y,oSGib3)
+    instance_create(x,y,oSGib4)
+    instance_create(x,y,oSGib5)
+    
+    instance_destroy()
+    
+    }
 
-if place_meeting(x,y+vspeed,oSolid) {
-
-vspeed = 0
-
-//throwing code
-
-//walking code
-sprite_index = sSkeletonWalking
-
-hspeed = hsp
-
-if collision_line(x,y-20,x+(sign(hsp)*30),y-20,oSolid,false,true) { hsp = hsp * -1 }
-
-
-} else {
-
-vspeed += .1
-
-sprite_index = sSkeletonFalling
-
-}
 </string>
           </argument>
         </arguments>

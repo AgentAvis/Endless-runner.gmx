@@ -38,6 +38,8 @@ kick = false
 Timerr = 0
 bhsp = 1
 armed = false
+Health = 25
+
 </string>
           </argument>
         </arguments>
@@ -145,9 +147,9 @@ if kick = true {
 
 Vert = collision_line(x,y,x,y+30,oGrate,true,true)
 
-if instance_exists(Vert) and vsp &gt; 7 { with (Vert) { instance_change(oGrateDented,true) physics_apply_impulse(x,y,0,500) } }  
+if instance_exists(Vert) and vsp &gt; 8 { vsp = 0 with (Vert) { instance_change(oGrateDented,true) physics_apply_impulse(x,y,0,500) } }  
 
-
+if Health &lt; 25 { Health += .05 }
 
 
 
@@ -181,11 +183,11 @@ draw_set_color(c_white)
 
 if hsp != 0 { bhsp = sign(hsp) }  
 
-if (global.debug) {draw_line(x,y-25,x+(bhsp*30),y-25)}
+//if (global.debug) {draw_line(x,y-25,x+(bhsp*30),y-25)}
 
-if (global.debug) {draw_line(x,y,x,y+25)}
+//if (global.debug) {draw_line(x,y,x,y+25)}
 
-if (global.debug) {draw_text(x,y,string(vsp))}
+if (global.debug) {draw_text(x,y -50,string(Health))}
 </string>
           </argument>
         </arguments>
