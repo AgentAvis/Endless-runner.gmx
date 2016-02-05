@@ -35,6 +35,7 @@
     <sprite>sprites\sprite23</sprite>
     <sprite>sprites\sprite10</sprite>
     <sprite>sprites\sprite16</sprite>
+    <sprite>sprites\sCamera</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -67,6 +68,7 @@
       <object>objects\oDoor</object>
       <object>objects\oTable</object>
       <object>objects\oChair</object>
+      <object>objects\oCamera</object>
     </objects>
     <objects name="Blocks">
       <object>objects\oSolid</object>
